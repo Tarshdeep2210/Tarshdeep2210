@@ -7,6 +7,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=22&pause=1000&color=67E8F9&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Machine+Learning+Explorer;Computer+Vision+Builder;Hackathon+Enthusiast;Always+Learning+Something+New" />
 
 </div>
+
 ---
 
 ## 🌙 About Me
