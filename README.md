@@ -97,25 +97,13 @@ Interactive User Experiences
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tarshdeep2210&theme=tokyonight" />
-
-<br><br>
-
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=Tarshdeep2210&show_icons=true&theme=tokyonight&hide_border=true"/>
 
 <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Tarshdeep2210&theme=tokyonight&hide_border=true"/>
 
 <br><br>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Tarshdeep2210&theme=tokyonight" />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Tarshdeep2210&theme=tokyonight" />
-
-<br><br>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Tarshdeep2210&theme=tokyonight" />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Tarshdeep2210&theme=tokyonight&utcOffset=5.5" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tarshdeep2210&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
