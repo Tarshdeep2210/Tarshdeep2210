@@ -6,14 +6,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=22&pause=1000&color=67E8F9&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Machine+Learning+Explorer;Computer+Vision+Builder;Hackathon+Enthusiast;Always+Learning+Something+New" />
 
-<br>
-
-<a href="https://tarshdeepportfolio.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-Visit_Now-67E8F9?style=for-the-badge" />
-</a>
-
 </div>
-
 ---
 
 ## 🌙 About Me
