@@ -1,65 +1,149 @@
-# Hi, I'm Tarshdeep Kaur 👋
+<div align="center">
 
-🎓 Computer Science Undergraduate at Thapar Institute of Engineering and Technology
+# ✦ Tarshdeep Kaur ✦
 
-💻 Full Stack Developer | Machine Learning Enthusiast | Problem Solver
+### Building things that think, learn, and occasionally break at 3 AM.
 
-I enjoy building applications that combine software engineering with artificial intelligence to solve real-world problems. My interests lie in Machine Learning, Computer Vision, Full-Stack Development, and scalable backend systems.
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=22&pause=1000&color=67E8F9&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Machine+Learning+Explorer;Computer+Vision+Builder;Hackathon+Enthusiast;Always+Learning+Something+New" />
 
----
-
-## 🚀 About Me
-
-- 🎓 B.E. Computer Science @ TIET Patiala
-- 📊 CGPA: 8.73
-- 🌱 Currently exploring Machine Learning, Computer Vision, and AI Systems
-- 🏆 1st Runner-Up at SPHINX'24 Hackathon
-- 💡 Passionate about building impactful tech products
-- 📍 Patiala, Punjab, India
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+## 🌙 About Me
 
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+Hey, I'm Tarshdeep.
 
-### Development
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+I enjoy turning ideas into products that people can actually use.
 
-### Machine Learning
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+Some days I'm building full-stack applications.
+Some days I'm training machine learning models.
+And on other days I'm debugging something that worked perfectly five minutes ago.
+
+Currently exploring the intersection of:
+
+```txt
+Machine Learning
+Computer Vision
+Full Stack Development
+AI Systems
+Interactive User Experiences
+```
+
+---
+
+
+## ⚡ Tech Stack
+
+```yaml
+Languages:
+  - Python
+  - C++
+  - C
+  - SQL
+  - JavaScript
+
+Frontend:
+  - React
+  - Next.js
+  - HTML
+  - CSS
+
+Backend:
+  - Node.js
+  - Express.js
+  - FastAPI
+  - MongoDB
+
+AI / ML:
+  - PyTorch
+  - TensorFlow
+  - Scikit-Learn
+  - OpenCV
+  - NumPy
+  - Pandas
+
+Tools:
+  - Git
+  - GitHub
+  - Postman
+  - VS Code
+```
+
+---
+
+## 🎨 Portfolio
+
+### ✨ Explore My Digital Workspace
+
+🔗 **Portfolio:** https://YOUR-PORTFOLIO-LINK.vercel.app
+
+---
+
+## 🏆 Highlights
+
+🥈 **1st Runner-Up — SPHINX'24 Hackathon**
+
+🎓 **Computer Science Undergraduate @ TIET Patiala**
+
+💡 Building practical AI systems and full-stack applications
 
 ---
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=Tarshdeep2210&show_icons=true&theme=tokyonight)
+<div align="center">
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=Tarshdeep2210&theme=tokyonight)
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Tarshdeep2210&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Tarshdeep2210&layout=compact&theme=tokyonight)
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Tarshdeep2210&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tarshdeep2210&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## 🎵 Current Playlist
+
+```txt
+Coding + Coffee + Lo-fi = Productivity
+```
+
+---
+
+## ☕ Current Status
+
+```cpp
+while(alive)
+{
+    learn();
+    build();
+    debug();
+    repeat();
+}
+```
 
 ---
 
 ## 🌐 Connect With Me
 
-- LinkedIn: www.linkedin.com/in/tarshdeep-kaur-55ba13296
-- GitHub: https://github.com/Tarshdeep2210
-- Email: tarshdeepkaur1@gmail.com
+📧 **Email:** tarshdeepkaur1@gmail.com
+
+💼 **LinkedIn:** https://www.linkedin.com/in/tarshdeep-kaur-55ba13296
+
+🌟 **Portfolio:** https://YOUR-PORTFOLIO-LINK.vercel.app
 
 ---
 
-### “Building technology that is practical, intelligent, and impactful.”
+<div align="center">
+
+### Thanks for stopping by ✨
+
+Building. Learning. Improving. Repeating.
+
+</div>
