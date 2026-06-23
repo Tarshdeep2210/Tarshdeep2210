@@ -74,7 +74,7 @@ And on other days I'm debugging something that worked perfectly five minutes ago
 
 🔗 **Portfolio:** https://tarshdeepportfolio.vercel.app/
 
-A custom-built interactive portfolio featuring a 3D workspace, animated monitor UI, Spotify section, clickable projects, skills, and achievements.
+A digital workspace that reflects how I think, build, and create — featuring a 3D interactive setup, immersive project showcases, music-powered vibes, and the things I'm currently exploring.
 
 ---
 
