@@ -78,13 +78,6 @@ A digital workspace that reflects how I think, build, and create — featuring a
 
 ---
 
-## 🏆 Highlight
-
-🥈 **1st Runner-Up — SPHINX’24 Hackathon**  
-MNIT Jaipur • 2024
-
----
-
 ## 📊 GitHub Activity
 
 <div align="center">
@@ -117,7 +110,7 @@ while(alive)
 
 📧 **Email:** tarshdeepkaur1@gmail.com  
 💼 **LinkedIn:** https://www.linkedin.com/in/tarshdeep-kaur-55ba13296  
-🌟 **Portfolio:** YOUR_PORTFOLIO_LINK
+🌟 **Portfolio:** https://tarshdeepportfolio.vercel.app/
 
 ---
 
