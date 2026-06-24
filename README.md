@@ -2,7 +2,7 @@
 
 # ✦ Tarshdeep Kaur ✦
 
-### Building things that think, learn, and occasionally break at 3 AM.
+### Building software, exploring AI, and occasionally debugging at 3 AM.
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=22&pause=1000&color=67E8F9&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Machine+Learning+Explorer;Computer+Vision+Builder;Hackathon+Enthusiast;Always+Learning+Something+New" />
 
@@ -10,15 +10,19 @@
 
 ---
 
-## 🌙 About Me
+## About Me
 
 Hey, I'm Tarshdeep.
 
-I enjoy turning ideas into products that people can actually use.
+I'm a Computer Science student passionate about software engineering, machine learning, and building solutions to real-world problems.
 
-Some days I'm building full-stack applications.  
-Some days I'm training machine learning models.  
-And on other days I'm debugging something that worked perfectly five minutes ago.
+Most of my work lies at the intersection of full-stack development and AI — from developing web applications and backend systems to experimenting with machine learning and computer vision models.
+
+Some days I'm building applications.  
+Some days I'm training models.  
+And on other days I'm debugging code that worked perfectly five minutes ago.
+
+Currently exploring software engineering, machine learning, computer vision, and scalable systems while continuously learning and building.
 
 ---
 
@@ -42,7 +46,7 @@ And on other days I'm debugging something that worked perfectly five minutes ago
 ### Backend
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
@@ -50,7 +54,7 @@ And on other days I'm debugging something that worked perfectly five minutes ago
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-27338E?style=for-the-badge&logo=opencv&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
@@ -68,7 +72,7 @@ And on other days I'm debugging something that worked perfectly five minutes ago
 
 🔗 **Portfolio:** https://tarshdeepportfolio.vercel.app/
 
-A digital workspace that reflects how I think, build, and create — featuring a 3D interactive setup, immersive project showcases, music-powered vibes, and the things I'm currently exploring.
+A digital workspace that reflects how I think, build, and create — featuring immersive project showcases, interactive experiences, and the technologies I'm currently exploring.
 
 ---
 
