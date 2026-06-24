@@ -4,7 +4,7 @@
 
 ### Building software, exploring AI, and occasionally debugging at 3 AM.
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=22&pause=1000&color=67E8F9&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Machine+Learning+Explorer;AI-Powered+Applications+Developer;Hackathon+Enthusiast;Always+Learning+Something+New" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=22&pause=1000&color=67E8F9&center=true&vCenter=true&width=700&lines=Software+Engineering+Enthusiast;Full+Stack+Developer;Machine+Learning+Explorer;AI-Powered+Applications+Developer;Hackathon+Enthusiast" />
 
 </div>
 
